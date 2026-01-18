@@ -66,7 +66,7 @@ Returns a list of all delivery options.
 Returns all items in the cart.
 
 **Query Parameters:**
-- `expand=product` (optional): include full product details
+- `expand=products` (optional): include full product details
 
 **Response:**
 ```js
